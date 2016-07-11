@@ -24,7 +24,7 @@ Readers can use this repo to:
 
 3. Install jupyter (e.g., `conda install jupyter`) and run `jupyter notebook` from this repo.
 
-4. Optionally, you can download of raw 195 GB of visibility data into this repo:
+4. Optionally, you can download 195 GB of raw visibility data into this repo to reproduce the initial detection:
 
   a. Visit https://archive.nrao.edu/archive/advquery.jsp.
   
